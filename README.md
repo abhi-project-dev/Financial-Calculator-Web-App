@@ -48,11 +48,9 @@ Users can input values using sliders or fields and instantly see results along w
 
 ![SIP Calculator](screenshots/sip.png)
 
-### 🔹 Charts & Results
+### 🔹 Standard Calculator
 
-![Charts](screenshots/chart.png)
-
-> 📌 Place your images inside a `screenshots/` folder in your repo
+![Charts](screenshots/calculator.png)
 
 ---
 
@@ -106,20 +104,6 @@ Users can input values using sliders or fields and instantly see results along w
 
 ---
 
-## ⚙️ Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/financial-calculator.git
-
-# Navigate to project folder
-cd financial-calculator
-
-# Open index.html in browser
-```
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -160,8 +144,8 @@ This project is licensed under the MIT License.
 **Abhiram Thallapally**
 
 * 💼 Aspiring Software Engineer | AI & ML Enthusiast
-* 🌐 GitHub: *(Add your link)*
-* 🔗 LinkedIn: *(Add your link)*
+
+* 🔗 LinkedIn: www.linkedin.com/in/abhiram-thallapally-681a4b328
 
 ---
 
