@@ -9,12 +9,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-👉 (http://127.0.0.1:5501/calculator.html)
-
----
-
 ## 📌 Project Overview
 
 The **Interactive Financial Calculator Web App** is a modern and responsive web application designed to help users make smarter financial decisions.
